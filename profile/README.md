@@ -1,5 +1,12 @@
 ![https://yakshalang.github.io/](https://yakshalang.github.io/images/yk-banner.png)
 
+# Documentation
+
+* [Standard Library](https://yakshalang.github.io/library-docs.html)
+* [Tutorials](https://yakshalang.github.io/Tutorials/)
+* [Documentation](https://yakshalang.github.io/documentation)
+* [Proposals](https://github.com/YakshaLang/YAMA/tree/main/proposals)
+
 # Communities
 
 [![reddit](https://user-images.githubusercontent.com/498642/229309556-e8f304e2-21f6-45ca-9487-f74b35206165.png)](https://www.reddit.com/r/yakshalang/)
