@@ -6,6 +6,8 @@
 * [Tutorials](https://yakshalang.github.io/Tutorials/)
 * [Documentation](https://yakshalang.github.io/documentation)
 * [Proposals](https://github.com/YakshaLang/YAMA/tree/main/proposals)
+* [Demos with source code](https://yakshalang.github.io/demos.html)
+* [(B)log](https://yakshalang.github.io/blog.html)
 
 # Communities
 
