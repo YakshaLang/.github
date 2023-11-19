@@ -8,6 +8,7 @@
 * [Proposals](https://github.com/YakshaLang/YAMA/tree/main/proposals)
 * [Demos with source code](https://yakshalang.github.io/demos.html)
 * [(B)log](https://yakshalang.github.io/blog.html)
+* [Plan / Tasks](https://trello.com/b/f25EcuX6/%F0%9F%91%BF-yaksha-tasks)
 
 # Communities
 
